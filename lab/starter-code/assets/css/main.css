@@ -1,30 +1,6 @@
-@import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
-/*
-	Prologue by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
-html, body, div, span, applet, object,
-iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
-pre, a, abbr, acronym, address, big, cite,
-code, del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var, b,
-u, i, center, dl, dt, dd, ol, ul, li, fieldset,
-form, label, legend, table, caption, tbody,
-tfoot, thead, tr, th, td, article, aside,
-canvas, details, embed, figure, figcaption,
-footer, header, hgroup, menu, nav, output, ruby,
-section, summary, time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;}
-
+/* 																						moved to base css */
+/* 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
@@ -44,9 +20,12 @@ blockquote, q {
 	blockquote:before, blockquote:after, q:before, q:after {
 		content: '';
 		content: none;
-	}
+	} */
 
-table {
+
+	/* 																	Moved to Base css */
+
+/* table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
@@ -58,7 +37,9 @@ body {
 mark {
 	background-color: transparent;
 	color: inherit;
-}
+} */
+
+/* 
 
 input::-moz-focus-inner {
 	border: 0;
@@ -70,18 +51,19 @@ input, select, textarea {
 	-webkit-appearance: none;
 	-ms-appearance: none;
 	appearance: none;
-}
+} */
 
 /* Basic */
-
+/* 
 	html {
 		box-sizing: border-box;
 	}
 
 	*, *:before, *:after {
 		box-sizing: inherit;
-	}
+	} */
 
+/* 
 	body {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
@@ -89,7 +71,8 @@ input, select, textarea {
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
-	}
+	} */
+/* 
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
@@ -100,7 +83,9 @@ input, select, textarea {
 			-webkit-transition: none !important;
 			-ms-transition: none !important;
 			transition: none !important;
-		}
+		} */
+
+/* 
 
 	input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
@@ -108,7 +93,9 @@ input, select, textarea {
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
-	}
+	} */
+
+/* 
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
@@ -172,8 +159,8 @@ input, select, textarea {
 		-ms-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		outline: 0;
-	}
-
+	} */
+/* 
 		a:hover {
 			color: #E27689;
 			border-bottom-color: rgba(255, 255, 255, 0);
@@ -208,16 +195,16 @@ input, select, textarea {
 
 	br.clear {
 		clear: both;
-	}
+	} */
 
 /* Container */
-
+/* 
 	.container {
 		margin: 0 auto;
 		max-width: 100%;
 		width: 1400px;
-	}
-
+	} */
+/* 
 		@media screen and (min-width: 961px) and (max-width: 1880px) {
 
 			.container {
@@ -256,9 +243,11 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		}
+		} */
 
 /* Row */
+
+/* theretherethere */
 
 	.row {
 		display: flex;
@@ -1725,6 +1714,10 @@ input, select, textarea {
 						}
 
 		}
+
+/* hereherehere */
+
+/* ================================================================================================================================================================================================================================================================================================================================================================================ */
 
 /* Sections/Article */
 
