@@ -47,6 +47,20 @@ Add this information to your README.
 
 #### Feature #1: Refactor the CSS 
 
+
+```
+Number and name of feature: Feature #1: Refactor the CSS 
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 11:00
+
+//TODO:
+Finish time: _____
+//TODO:
+Actual time needed to complete: _____
+```
+
 ##### Why are we implementing this feature?
 
 - As a user, I want the portfolio to have a clean UI so that it is visually appealing.
